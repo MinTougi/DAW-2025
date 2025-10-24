@@ -20,4 +20,8 @@ export default defineConfig([
       globals: globals.browser,
     },
   },
+<<<<<<< HEAD
 ])
+=======
+])
+>>>>>>> dba334fa0c616468fecf41d11135b14a2b6ed6e6
