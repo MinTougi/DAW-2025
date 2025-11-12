@@ -6,7 +6,7 @@ export type MovieDTO = {
     image: string;
 }
 
-const _ENDPOINT = '/movies?key=2c92a6b0'
+const _ENDPOINT = "/movies?key=2a00c230"
 
 export const MovieService = {
     async list(): Promise<MovieDTO[]> {
